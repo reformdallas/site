@@ -1,18 +1,18 @@
 # Site settings
-title: Jekyll-Uno
-description: 'Jekyll-Uno - a minimal, responsive theme for Jekyll'
-url: 'http://joshgerdes.com/jekyll-uno'
-baseurl: '/jekyll-uno/'
+title: Reform Dallas
+description: 'If you see something, say something...'
+url: 'http://reformdallas.org'
+baseurl: '/'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
 author:
-  name: 'Josh Gerdes'
-  email: josh@joshgerdes.com
-  twitter_username: joshgerdes
-  facebook_username: joshgerdes
-  github_username:  joshgerdes
-  linkedin_username:  joshgerdes
+  name: 'Cody Marx Bailey'
+  email: admin@reformdallas.org
+  twitter_username: reformdallas
+  facebook_username: reformdallas
+  github_username: reformdallas
+  linkedin_username: 
 
 defaults:
   -
