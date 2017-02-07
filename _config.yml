@@ -3,7 +3,7 @@ title: Reform Dallas
 description: 'See something, say something...'
 url: 'http://reformdallas.org'
 baseurl: '/'
-# google_analytics: 'UA-XXXXXX-X'
+google_analytics: 'UA-91564118-1'
 # disqus_shortname: 'your-disqus-name'
 
 author:
